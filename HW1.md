@@ -11,9 +11,13 @@ I am a young 19 year old college student at my third semester at MC (I did not t
 1. Reading
 2. Math
 3. Youtube
-4. Video Games
+4. Sports
 ##### Honorable Mentions
 - Psychology
 - Cars
 - Food
-- Friends
+- Video Games
+
+#### Here's a link to a website I visit often: https://www.espn.com/nfl/ 
+
+#### My Favorite Car in the world: https://drive.google.com/file/d/19oL4blB62-7VBWRZvJBHn3aJ10sTAYqY/view?usp=drive_link 
