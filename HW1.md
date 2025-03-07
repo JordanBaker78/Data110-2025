@@ -20,4 +20,34 @@ I am a young 19 year old college student at my third semester at MC (I did not t
 
 #### Here's a link to a website I visit often: https://www.espn.com/nfl/ 
 
-#### My Favorite Car in the world: https://drive.google.com/file/d/19oL4blB62-7VBWRZvJBHn3aJ10sTAYqY/view?usp=drive_link 
+#### My Favorite Car in the world: ![IMG_20240626_200051334](https://github.com/user-attachments/assets/ff0b8656-63b8-4c04-944a-5a510074b409)
+ 
+#### Quote
+> "Nothing in life worth doing is easy"
+> - Albert Baker
+
+#### Inline Code
+```
+x = 7
+  print x
+```
+
+#### Table
+| Subject       |Difficulty | Like or Dislike  |
+| ------------- |:---------:| ----------------:|
+| Math          | Hard      | Like             |
+| Enlgish       | Medium    | Like             |
+| Social Studies| Medium    | Dislike          |
+
+#### Task List
+- [x] Do Homework 1
+- [ ] Do Homework 2
+- [ ] Sweep Floor
+- [ ] Dishes
+- [ ] Take Shower
+
+#### Footnote
+This should have been done a long time ago[^1].
+
+[^1]: At least it's getting done now
+
